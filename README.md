@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear is hábitos diarios.
 
+- [Visite o projeto online](https://uiuzih.github.io/nlw-setup/)
+
 
 ## 🔖 Layout
 
